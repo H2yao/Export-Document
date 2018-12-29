@@ -62,6 +62,5 @@ public class MainWordTemplate {
 		map.put("test", "测试内容");
 		
 		ExportDocument(map);
-		
 	}
 }
